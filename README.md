@@ -46,21 +46,20 @@ A list of TrainingData-datasets found in the industry and their descriptions are
 ### Biometric Licenses
 This block includes collected datasets with a large array of biometric data (photos & videos of real people) for deep learning and computer vision, as well as for improving safety and identification systems.
 
-- [PHM Data Challenge 18](<https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/PHM Data Challenge 18>): Etching tool fault detection (PdM).  
+- [Face Masks Detection Dataset](<https://github.com/Trainingdata-datamarket/Face-Masks-Detection>): Etching tool fault detection (PdM).  
   ![](https://img.shields.io/badge/sector-semicon-blue.svg)
   ![](https://img.shields.io/badge/labeled-yes-blue.svg)
   ![](https://img.shields.io/badge/time--series-yes-blue.svg) ![](<https://img.shields.io/badge/simulation-no-red.svg>)   
-- [SECOM](<https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/SECOM>): Semiconductor manufacturing process data.  
+- [Anti Spoofing Real Dataset](<https://github.com/Trainingdata-datamarket/Anti-Spoofing-Real-Dataset>): Semiconductor manufacturing process data.  
   ![](https://img.shields.io/badge/sector-semicon-blue.svg)
   ![](https://img.shields.io/badge/labeled-yes-blue.svg)
   ![](https://img.shields.io/badge/time--series-yes-blue.svg) ![](<https://img.shields.io/badge/simulation-no-red.svg>)   
   ![](https://img.shields.io/badge/feature_selection-gray.svg)
-- [WM-811K(LSWMD)](https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/WM-811K(LSWMD)): Wafer fault detection & classification data.  
+- [Anti Spoofing Replay Dataset](<https://github.com/Trainingdata-datamarket/Anti-Spoofing-Replay-Dataset>): Wafer fault detection & classification data.  
   ![](https://img.shields.io/badge/sector-semicon-blue.svg)
   ![](https://img.shields.io/badge/labeled-yes-blue.svg)
   ![](https://img.shields.io/badge/time--series-no-red.svg)
   ![](<https://img.shields.io/badge/simulation-no-red.svg>)
-
-- [Superconductivity](https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/Superconductivity%20Dataset)
-
-  ![](https://img.shields.io/badge/sector-semicon-blue.svg) ![](https://img.shields.io/badge/labeled-yes-blue.svg) ![](https://img.shields.io/badge/time--series-no-red.svg)  ![](<https://img.shields.io/badge/simulation-no-red.svg>)
+- [Selfies and Video Dataset](<https://github.com/Trainingdata-datamarket/Selfies-and-video-dataset>)
+- [Selfie and ID Dataset](<https://github.com/Trainingdata-datamarket/Selfie-and-ID-Dataset>)
+- [Portrait and 26 Photos Dataset](<https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos>)
