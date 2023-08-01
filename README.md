@@ -47,19 +47,14 @@ A list of TrainingData-datasets found in the industry and their descriptions are
 This block includes collected datasets with a large array of biometric data (photos & videos of real people) for deep learning and computer vision, as well as for improving safety and identification systems.
 
 - [Face Masks Detection Dataset](<https://github.com/Trainingdata-datamarket/Face-Masks-Detection>): Etching tool fault detection (PdM).  
-  ![](https://img.shields.io/badge/sector-semicon-blue.svg)
-  ![](https://img.shields.io/badge/labeled-yes-blue.svg)
-  ![](https://img.shields.io/badge/time--series-yes-blue.svg) ![](<https://img.shields.io/badge/simulation-no-red.svg>)   
+  ![](https://img.shields.io/badge/dataset_type-License-blue)
 - [Anti Spoofing Real Dataset](<https://github.com/Trainingdata-datamarket/Anti-Spoofing-Real-Dataset>): Semiconductor manufacturing process data.  
-  ![](https://img.shields.io/badge/sector-semicon-blue.svg)
-  ![](https://img.shields.io/badge/labeled-yes-blue.svg)
-  ![](https://img.shields.io/badge/time--series-yes-blue.svg) ![](<https://img.shields.io/badge/simulation-no-red.svg>)   
-  ![](https://img.shields.io/badge/feature_selection-gray.svg)
+  ![](https://img.shields.io/badge/dataset_type-License-blue)
 - [Anti Spoofing Replay Dataset](<https://github.com/Trainingdata-datamarket/Anti-Spoofing-Replay-Dataset>): Wafer fault detection & classification data.  
-  ![](https://img.shields.io/badge/sector-semicon-blue.svg)
-  ![](https://img.shields.io/badge/labeled-yes-blue.svg)
-  ![](https://img.shields.io/badge/time--series-no-red.svg)
-  ![](<https://img.shields.io/badge/simulation-no-red.svg>)
+  ![](https://img.shields.io/badge/dataset_type-License-blue)
 - [Selfies and Video Dataset](<https://github.com/Trainingdata-datamarket/Selfies-and-video-dataset>)
+  ![](https://img.shields.io/badge/dataset_type-License-blue)
 - [Selfie and ID Dataset](<https://github.com/Trainingdata-datamarket/Selfie-and-ID-Dataset>)
+  ![](https://img.shields.io/badge/dataset_type-License-blue)
 - [Portrait and 26 Photos Dataset](<https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos>)
+  ![](https://img.shields.io/badge/dataset_type-License-blue)
