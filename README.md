@@ -2,8 +2,7 @@
 
 A list of TrainingData-datasets found in the industry and their descriptions are shown below. Clicking the link will take you to the data description page with all information anout the dataset and saample of data for you to try it.
 
-1. [ Tags ](#tags)
-2. [ Biometric Licenses ](#bio_l)
+
 
 <a name="tags"></a>
 
@@ -36,9 +35,11 @@ A list of TrainingData-datasets found in the industry and their descriptions are
   ![](https://img.shields.io/badge/data_type-Smart_City-indigo)
   ![](https://img.shields.io/badge/data_type-iBeta-lightyellow)
   ![](https://img.shields.io/badge/data_type-Others-gold)
-
+  
 
 ## List of Datasets
+
+1. [ Biometric Licenses ](#bio_l)
 
 <a name="bio_l"></a>
 
