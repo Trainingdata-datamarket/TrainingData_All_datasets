@@ -9,8 +9,8 @@ A list of TrainingData-datasets found in the industry and their descriptions are
 ## Tags
 
 - Dataset type:  
-  ![](https://img.shields.io/badge/type-License-blue)
-  ![](https://img.shields.io/badge/type-On_demand-darkblue)
+  ![](https://img.shields.io/badge/dataset_type-License-blue)
+  ![](https://img.shields.io/badge/dataset_type-On_demand-darkblue)
 
 - Services 
   ![](https://img.shields.io/badge/service-Data%20Annotation-coral)
