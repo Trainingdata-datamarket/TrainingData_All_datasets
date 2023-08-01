@@ -4,7 +4,15 @@ A list of TrainingData-datasets found in the industry and their descriptions are
 
 ## Tags
 
-- Tasks 
+- Dataset type:  
+  ![](https://img.shields.io/badge/type-License-blue)
+  ![](https://img.shields.io/badge/type-On_demand-darkblue)
+
+- Services 
+  ![](https://img.shields.io/badge/service-Data%20Annotation-coral)
+  ![](https://img.shields.io/badge/service-Data_Collection-yellow)
+  
+- Task type:
   ![](https://img.shields.io/badge/task_type-AntiSpoofing-green)
   ![](https://img.shields.io/badge/task_type-Bounding_Box_Detection-darkgreen)
   ![](https://img.shields.io/badge/task_type-Classification-yellow)
@@ -15,25 +23,16 @@ A list of TrainingData-datasets found in the industry and their descriptions are
   ![](https://img.shields.io/badge/task_type-Transcription-magenta)
   ![](https://img.shields.io/badge/task_type-iBeta-lightyellow)
 
-- Label  
-  ![](https://img.shields.io/badge/labeled-yes-blue.svg)
-  ![](https://img.shields.io/badge/labeled-implicit-green.svg)
-  ![](https://img.shields.io/badge/labeled-meta--only-yellow.svg)
-  ![](https://img.shields.io/badge/labeled-no-red.svg)
+- Data Type:  
+  ![](https://img.shields.io/badge/data_type-Biometrics-pinegreen)
+  ![](https://img.shields.io/badge/data_type-Content%26Language-aqua)
+  ![](https://img.shields.io/badge/data_type-E_commerce-maroon)
+  ![](https://img.shields.io/badge/data_type-Healthcare-teal)
+  ![](https://img.shields.io/badge/data_type-Smart_City-indigo)
+  ![](https://img.shields.io/badge/data_type-iBeta-lightyellow)
+  ![](https://img.shields.io/badge/data_type-Others-gold)
 
-- Time-series  
-  ![](https://img.shields.io/badge/time--series-yes-blue.svg)
-  ![](https://img.shields.io/badge/time--series-no-red.svg)
 
-- Miscellaneous  
-  ![](https://img.shields.io/badge/any-gray.svg)
-  ![](https://img.shields.io/badge/keywords-gray.svg)
-  ![](https://img.shields.io/badge/you-gray.svg)
-  ![](https://img.shields.io/badge/want-gray.svg)
-
-- Simulation   
-
-  ![](<https://img.shields.io/badge/simulation-yes-blue.svg>) ![](<https://img.shields.io/badge/simulation-no-red.svg>)     
 
 ## List of Datasets
 
