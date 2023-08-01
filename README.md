@@ -8,17 +8,12 @@ A list of TrainingData-datasets found in the industry and their descriptions are
   ![](https://img.shields.io/badge/task_type-AntiSpoofing-green)
   ![](https://img.shields.io/badge/task_type-Bounding_Box_Detection-darkgreen)
   ![](https://img.shields.io/badge/task_type-Classification-yellow)
-  ![](https://img.shields.io/badge/task_type-Computer Vision-orange](https://img.shields.io/badge/task_type-Computer%20Vision-orange)
-  ![](https://img.shields.io/badge/task_type-Data Generation-lightgray)
+  ![](https://img.shields.io/badge/task_type-Computer%20Vision-orange)
   ![](https://img.shields.io/badge/task_type-Data%20Generation-lightgray)
-
-https://img.shields.io/badge/task_type-Reidentification-red
-
-https://img.shields.io/badge/task_type-Segmentation-purple
-
-https://img.shields.io/badge/task_type-Transcription-magenta
-
-https://img.shields.io/badge/task_type-iBeta-lightyellow
+  ![](https://img.shields.io/badge/task_type-Reidentification-red)
+  ![](https://img.shields.io/badge/task_type-Segmentation-purple)
+  ![](https://img.shields.io/badge/task_type-Transcription-magenta)
+  ![](https://img.shields.io/badge/task_type-iBeta-lightyellow)
 
 - Label  
   ![](https://img.shields.io/badge/labeled-yes-blue.svg)
