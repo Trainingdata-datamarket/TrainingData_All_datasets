@@ -1,4 +1,4 @@
-# Face Masks Detection Dataset
+# Portrait and 26 Photos Dataset
 1. [ About the dataset ](#about)
 2. [ Distributions ](#dist)
 3. [ Content ](#cont)
@@ -7,53 +7,59 @@
 
 <a name="about"></a>
 # About the dataset
-We introduce a large image dataset called **Face Masks Detection** for training a neural network to solve reidentification tasks. This dataset consists of a collection of high-quality photographs capturing individuals wearing medical masks. These images have been curated and compiled into a comprehensive dataset to aid in various machine learning and computer vision applications. 
+
+The **"Portrait and 26 Photos"** dataset is a comprehensive collection of images of individuals, consists of a personal selfie and 26 accompanying photos captured during various activities, in different times and conditions. This rich dataset aims to provide researchers, developers, and individuals with a diverse and detailed set of visual information to facilitate the development and improvement of computer vision, machine learning, and pattern recognition algorithms.
 
 The photographs showcase diverse *gender, age, and ethnic groups, allowing for a broad spectrum of representation.*
 
-The dataset featuring photos of people wearing medical masks provides a valuable resource for various machine learning and computer vision applications. With its diverse subjects, comprehensive annotations, high image resolution, this dataset encourages advancements in *facial recognition, emotion analysis, and healthcare research, among other potential applications*.
+The selfie and life photos dataset offers numerous potential applications, including but not limited to: *facial recognition software training, reidentification tasks, security verification, emotional analysis, driver identification and other*.
 
-The dataset consists of **75,283** sets of images (**301,132** images in total) from people from **160** countries. The data for the dataset is still gathering, so the number of photos is getting bigger!
+The dataset consists of **272** sets of images (**7,344** images in total) from people from **26** countries. 
 
-### The dataset includes 4 different types of images:
-- **Type 1** - no mask on the face.
-- **Type 2** - mask is on, but does not cover the nose or mouth.
-- **Type 3** - mask covers the mouth, but does not cover the nose.
-- **Type 4** - mask is worn correctly, covers the nose and mouth.
+### The dataset includes 2 different types of images:
+- **Profile photo** - a photo that shows the person in profile.
+- **Life photos** - **26** photos from the person's life. 
 
 ### Data in the dataset
-- People from 18 to 81 years old are presented in the dataset.
+- People from 18 to 59 years old are presented in the dataset.
 - For each person in the dataset age, country and gender is presented.
-- The data was mostly collected indoor, however there are also selfies made outdoors.
+- The portrait photos were mostly collected indoor, however there are also selfies made outdoors.
 - The lighting is artificial, natural daily lightning, evening outdoor lighting and dark indoor lighting.
-- People provided selfies where the head takes up at least 1/2 of the frame.
-- Distance from the camera is approximately 20-30 centimeters.
+- People provided portrait selfies where the head takes up at least 1/2 of the frame.
+- All life photos are completely different, however all of them show the person from the portrait photo. Images can have additional people on them, can be made at different times of life and in different locations. A person can laugh, wear maske and be surrounded by friends
 
-### People in the dataset
+![MacBook Air - 1](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/0414ebdc-342a-49d7-b388-5b31c571b8dc)
 
-![MacBook Pro 14_ - 1](https://github.com/Trainingdata-datamarket/Portrait-26-Photos/assets/113421352/5de2ec5f-6915-41b4-a9fc-d2166d8e218e)
+### Mandatory conditions for the profile photo:
+
+- The person is depicted alone
+- Shoulder photo
+- There are no sunglasses or medical mask on the face
+- The face is calm, without a smile
+
+![MacBook Pro 14_ - 1](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/957315c7-a25e-4e5e-85f6-4dcc7c4a6e83)
 
 <a name="dist"></a>
 # Distributions
 
 ### Gender of people in the dataset
 
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/faee1aca-5bc9-4ff3-855b-127c5abe46b4)
+![image](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/a3bd3e4f-d3f6-4e34-89f8-277033d03890)
 
 ### Age of people in the dataset
 
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/b815c775-29df-45df-94b1-9ea3a15a81e7)
+![image](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/c80aa2bc-8d32-4afd-b161-c10163285a7c)
 
-### Regions of people in the dataset
+### Countries of people in the dataset
 
-![image](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/f2f7532f-3d2e-412a-b46b-b45615107878)
+![image](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/a16182fb-d73f-485b-a6d7-ac53e9d7924e)
 
 <a name="cont"></a>
 
 # Content
-### The folder **"images"** includes 10 folders:
+### The folder **"images"** includes 14 folders:
 - corresponding to each person in the sample
-- containing of 4 selfies of the individual (*no mask, mask does not cover the nose or mouth, mask covers the mouth, mask covers the nose and mouth*)
+- containing of 27 photos of the individual (*1 portrait photo and 26 photos of the individual from different times and made in different conditions*)
 
 ### File with the extension .csv
 includes the following information for each media file:
@@ -68,7 +74,7 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github)**
 
-![ezgif-1-339b20090e](https://github.com/Trainingdata-datamarket/Portrait-26-Photos/assets/113421352/4cfeff06-8baa-42ec-89a9-726468af4c69)
+![ezgif-1-339b20090e](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/4217962c-b764-4466-b026-d5ff4217636c)
 
 <a name="link"></a>
 # Links
