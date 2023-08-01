@@ -2,6 +2,11 @@
 
 A list of TrainingData-datasets found in the industry and their descriptions are shown below. Clicking the link will take you to the data description page with all information anout the dataset and saample of data for you to try it.
 
+1. [ Tags ](#tags)
+2. [ Biometric Licenses ](#bio_l)
+
+<a name="tags"></a>
+
 ## Tags
 
 - Dataset type:  
@@ -33,8 +38,9 @@ A list of TrainingData-datasets found in the industry and their descriptions are
   ![](https://img.shields.io/badge/data_type-Others-gold)
 
 
-
 ## List of Datasets
+
+<a name="bio_l"></a>
 
 ### Biometric Licenses
 This block includes collected datasets with a large array of biometric data (photos & videos of real people) for deep learning and computer vision, as well as for improving safety and identification systems.
