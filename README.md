@@ -46,7 +46,7 @@ A list of TrainingData-datasets found in the industry and their descriptions are
 ### Biometric Licenses
 This block includes collected datasets with a large array of biometric data (photos & videos of real people) for deep learning and computer vision, as well as for improving safety and identification systems.
 
-- [Face Masks Detection Dataset](<https://github.com/Trainingdata-datamarket/Face-Masks-Detection>): Etching tool fault detection (PdM).  
+- [Face Masks Detection Dataset](<https://github.com/Trainingdata-datamarket/Face-Masks-Detection>): Selfies of people wearing medical masks in 4 ways (no mask on the face, mask does not cover the nose or mouth, mask covers the mouth, mask covers the nose and mouth)
   ![](https://img.shields.io/badge/dataset_type-License-blue)
   ![](https://img.shields.io/badge/service-Data_Collection-yellow)
   ![](https://img.shields.io/badge/task_type-Bounding_Box_Detection-darkgreen)
