@@ -36,7 +36,8 @@ c
 
 ## List of Datasets
 
-### Semicon
+### Biometric Licenses
+This block includes collected datasets with a large array of biometric data (photos.ms & videos of real people) for deep learning and computer vision, as well as for improving safety and identification syste
 
 - [PHM Data Challenge 18](<https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/PHM Data Challenge 18>): Etching tool fault detection (PdM).  
   ![](https://img.shields.io/badge/sector-semicon-blue.svg)
@@ -56,18 +57,3 @@ c
 - [Superconductivity](https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/Superconductivity%20Dataset)
 
   ![](https://img.shields.io/badge/sector-semicon-blue.svg) ![](https://img.shields.io/badge/labeled-yes-blue.svg) ![](https://img.shields.io/badge/time--series-no-red.svg)  ![](<https://img.shields.io/badge/simulation-no-red.svg>)
-
-### Chemical  
-
-- [Gas Sensor Array Drift](<https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/Gas Sensor Array Drift>): This archive contains 13910 measurements from 16 chemical sensors exposed to 6 different gases at various concentration levels.  
-  ![](https://img.shields.io/badge/sector-chemical-red.svg)
-  ![](https://img.shields.io/badge/labeled-yes-blue.svg)
-  ![](https://img.shields.io/badge/time--series-yes-blue.svg) ![](<https://img.shields.io/badge/simulation-yes-blue.svg>)   
-- [Chemical Detection Platform](<https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/Chemical Detection Platform>): The dataset contains 18000 time-series recordings from a chemical detection platform at six different locations in a wind tunnel facility in response to ten high-priority chemical gaseous substances.   
-  ![](https://img.shields.io/badge/sector-chemical-red.svg)
-  ![](https://img.shields.io/badge/labeled-yes-blue.svg)
-  ![](https://img.shields.io/badge/time--series-yes-blue.svg) ![](<https://img.shields.io/badge/simulation-yes-blue.svg>)   
-- [Dynamic Gas Mixtures](<https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/Dynamic Gas Mixtures>): The data set contains the recordings of 16 chemical sensors exposed to two dynamic gas mixtures at varying concentrations. For each mixture, signals were acquired continuously during 12 hours.     
-  ![](https://img.shields.io/badge/sector-chemical-red.svg)
-  ![](https://img.shields.io/badge/labeled-yes-blue.svg)
-  ![](https://img.shields.io/badge/time--series-yes-blue.svg) ![](<https://img.shields.io/badge/simulation-yes-blue.svg>)  
