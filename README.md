@@ -37,7 +37,7 @@ c
 ## List of Datasets
 
 ### Biometric Licenses
-This block includes collected datasets with a large array of biometric data (photos.ms & videos of real people) for deep learning and computer vision, as well as for improving safety and identification syste
+This block includes collected datasets with a large array of biometric data (photos & videos of real people) for deep learning and computer vision, as well as for improving safety and identification syste
 
 - [PHM Data Challenge 18](<https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/PHM Data Challenge 18>): Etching tool fault detection (PdM).  
   ![](https://img.shields.io/badge/sector-semicon-blue.svg)
