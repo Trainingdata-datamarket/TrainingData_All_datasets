@@ -17,7 +17,8 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 - **Selfies** - 13 selfies of a person from a mobile phone, the person is depicted alone on it, the face is clearly visible.
 - **ID Photos** - ID photos of the person from 2 different documents.
 
-![Desktop - 1 (3)](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/f14bd950-620b-40ec-bd08-ffc883b63d0b)
+![Frame 15](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/eb33a443-0dcb-4f35-9e1a-7a1ca7d49ea7)
+
 
 ### Data in the dataset
 - People from 18 to 76 years old are presented in the dataset.
@@ -28,8 +29,8 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 - Distance from the camera is approximately 20-30 centimeters.
 
 ### People in the dataset
-![Desktop - 1 (1)](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/3b0969ff-a56b-407f-9aad-900c67e86429)
 
+![Frame 14](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/09a6b94b-acf8-4fc8-9fa7-e471c8609bb2)
 
 <a name="dist"></a>
 # Distributions
@@ -70,7 +71,6 @@ This is just an example of the data. If you need access to the entire dataset, l
 | Resource | Link |
 | --- | --- |
 | TrainingData.pro | [trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=selfieid) |
-| TrainingData.solutions | [trainingdata.solutions/data-market](https://trainingdata.solutions/data-market?utm_source=github&utm_medium=cpc&utm_campaign=selfieid) |
 | Kaggle | https://www.kaggle.com/trainingdatapro |
 | HuggingFace | https://huggingface.co/TrainingDataPro |
 
