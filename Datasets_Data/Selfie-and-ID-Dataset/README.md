@@ -37,15 +37,16 @@ The dataset consists of **5,591** sets of images (**83,865** images in total) fr
 
 ### Gender of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/f08c85bc-f167-45b3-ab80-0a3e5e8eef2c)
+![image](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/0429252a-d3e2-4b43-b336-367441325166)
 
 ### Ethnicity of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/fcfe41bd-095c-4bee-9f5c-66f4503f27ef)
+![image](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/155d7bf1-8b7d-4dbc-a933-2aef7ad512eb)
 
 ### Age of people in the dataset
 
-![image](https://github.com/trainingdata-pro/Selfie-Id-Dataset/assets/113421352/99b7b128-38e6-4930-af3e-3e519adece40)
+![image](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/addf1668-200b-4abb-aab4-aca3b1ceda3c)
+
 
 <a name="cont"></a>
 # Content
