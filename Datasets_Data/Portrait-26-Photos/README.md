@@ -72,7 +72,7 @@ includes the following information for each media file:
 
 <a name="getdat"></a>
 # Get the Dataset
-This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=26photos)**
+This is just an example of the data. If you need access to the entire dataset, leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=26photos)**
 
 ![ezgif-1-339b20090e](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/4217962c-b764-4466-b026-d5ff4217636c)
 
