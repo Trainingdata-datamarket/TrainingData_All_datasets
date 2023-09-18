@@ -72,7 +72,7 @@ includes the following information for each media file:
 
 <a name="getdat"></a>
 # Get the Dataset
-This is just an example of the data. If you need access to the entire dataset, contact us via [sales@trainingdata.pro](mailto:sales@trainingdata.pro) or leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=selfievideo)**
+This is just an example of the data. If you need access to the entire dataset, leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=selfievideo)**
 
 ![f6b78ac9-bfba-445f-9ce9-adbe4c3b25fb](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/a9447796-6b75-4f84-9f0d-0c782978cbc3)
 
