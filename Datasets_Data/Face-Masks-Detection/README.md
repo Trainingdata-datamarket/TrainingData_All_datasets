@@ -72,7 +72,7 @@ includes the following information for each media file:
 
 <a name="getdat"></a>
 # Get the Dataset
-This is just an example of the data. If you need access to the entire dataset, Leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=medicalmasks)**
+This is just an example of the data. If you need access to the entire dataset, leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=medicalmasks)**
 
 ![ezgif-1-12e86765aa](https://github.com/Trainingdata-datamarket/Face-Masks-Detection/assets/113421352/535cf835-b911-4be9-b9f8-f50b202d8bf7)
 
