@@ -94,8 +94,6 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=as_real)**
 
-![live_video (online-video-cutter com) (1)](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/c9e723f1-a709-4470-bd17-43d336584e4e)
-
 
 <a name="link"></a>
 # Links
