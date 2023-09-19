@@ -81,6 +81,5 @@ This is just an example of the data. If you need access to the entire dataset, l
 | Resource | Link |
 | --- | --- |
 | TrainingData.pro | [trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=26photos) |
-| TrainingData.solutions | [trainingdata.solutions/data-market](https://trainingdata.solutions/data-market?utm_source=github&utm_medium=cpc&utm_campaign=26photos) |
 | Kaggle | https://www.kaggle.com/trainingdatapro |
 | HuggingFace | https://huggingface.co/TrainingDataPro |
