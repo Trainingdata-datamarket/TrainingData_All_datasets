@@ -1,4 +1,4 @@
-# Selfies and Video Dataset
+![4 (1)](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/26e13657-5c00-4b17-aaa0-cecec57b9fc9)# Selfies and Video Dataset
 1. [ About the dataset ](#about)
 2. [ Distributions ](#dist)
 3. [ Content ](#cont)
@@ -30,10 +30,6 @@ The dataset consists of **4,052** sets videos and selfies (**32,416** media in t
 - The lighting is artificial, natural daily lightning, evening outdoor lighting and dark indoor lighting.
 - People provided selfies and videos of themselves where the head takes up at least 1/2 of the frame.
 - Distance from the camera is approximately 20-30 centimeters.
-
-### People in the dataset
-
-![Desktop - 1 (1)](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/677f4d14-8fca-40e9-b029-9cd7a42babc9)
 
 <a name="dist"></a>
 
@@ -72,9 +68,10 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=selfievideo)**
 
-![f6b78ac9-bfba-445f-9ce9-adbe4c3b25fb](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/a9447796-6b75-4f84-9f0d-0c782978cbc3)
+![4 (1)](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/bcb677c4-47a8-44a9-ba53-85f7117a03f5)
 
 <a name="link"></a>
+
 # Links
 | Resource | Link |
 | --- | --- |
