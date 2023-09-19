@@ -13,8 +13,7 @@ We introduce a large image dataset "Selfies and Video" for training a neural net
 
 The dataset consists of **4,052** sets videos and selfies (**32,416** media in total) from **3,500+** unique people from **15** countries. The data for the dataset is still gathering, so the number of videos and photos is getting bigger!
 
-![Desktop - 1 (2)](https://github.com/trainingdata-pro/Selfies-and-video-dataset/assets/113421352/6214e108-ae19-465e-801d-e1e3e8598054)
-
+![Desktop - 1 (1)](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/213373be-0c23-4a3f-bf84-7ebe08623f61)
 
 ### The dataset includes 4 different types of media files:
 - **Smartphone selfie** - a selfie of a person made with a mobile phone, the person is depicted alone on it, the face is clearly visible.
