@@ -30,7 +30,8 @@ The dataset consists of 26,591 videos of replay attacks from 24,000+ unique peop
 - On the attack video there is a gradual zoom on the phone screen with a selfie video.
 
 ### People in the dataset
-![Desktop - 1 (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/c8fb7c56-616c-41b6-8c71-5db9795216fe)
+
+![Frame 19](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/80ef8572-0bae-4727-bc61-8efacfa72160)
 
 <a name="dist"></a>
 # Distributions
@@ -73,7 +74,6 @@ This is just an example of the data. If you need access to the entire dataset, l
 | Resource | Link |
 | --- | --- |
 | TrainingData.pro | [trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=as_replay) |
-| TrainingData.solutions | [trainingdata.solutions/data-market](https://trainingdata.solutions/data-market?utm_source=github&utm_medium=cpc&utm_campaign=as_replay) |
 | Kaggle | https://www.kaggle.com/trainingdatapro |
 | HuggingFace | https://huggingface.co/TrainingDataPro |
 
