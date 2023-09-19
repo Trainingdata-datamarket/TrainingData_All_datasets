@@ -66,8 +66,7 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data. If you need access to the entire dataset, leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=as_replay)**
 
-![Untitled (2) (1) (1)](https://github.com/trainingdata-pro/Anti-Spoofing-Replay-Dataset/assets/113421352/c15814f4-3f34-4913-afa9-e7042c1bc0fe)
-
+![0001ffba3c--62880080572a894c5df8f427__Samsung Galaxy J2 Core __Samsung Galaxy A22](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/1de28463-7cc3-4fdd-8700-fdd7d016941c)
 
 <a name="link"></a>
 # Links
