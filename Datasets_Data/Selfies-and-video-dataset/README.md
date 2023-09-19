@@ -1,4 +1,4 @@
-![4 (1)](https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/assets/113421352/26e13657-5c00-4b17-aaa0-cecec57b9fc9)# Selfies and Video Dataset
+# Selfies and Video Dataset
 1. [ About the dataset ](#about)
 2. [ Distributions ](#dist)
 3. [ Content ](#cont)
