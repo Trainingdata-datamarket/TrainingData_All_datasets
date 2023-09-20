@@ -83,4 +83,14 @@ This block includes collected datasets with a large array of biometric data (pho
   ![](https://img.shields.io/badge/task_type-Reidentification-red)
   ![](https://img.shields.io/badge/task_type-Bounding_Box_Detection-darkgreen)
   ![](https://img.shields.io/badge/data_type-Biometrics-pinegreen)
+
+### Generated Documents
+**Data generation** in machine learning involves creating or manipulating data to train and evaluate machine learning models. The purpose of data generation is to provide diverse and representative examples that cover a wide range of scenarios, ensuring the model's robustness and generalization. **TrainingData** can generate data on the following projects according to your requirments.
+
+- [GENERATED Vietnamese Passports](<>): Dataset with  replicas of official Vietnamese passports but with randomly generated details.
+  ![](https://img.shields.io/badge/dataset_type-On_demand-darkblue)
+  ![](https://img.shields.io/badge/service-Data_Collection-yellow)
+  ![](https://img.shields.io/badge/task_type-Data%20Generation-lightgray)
+  ![](https://img.shields.io/badge/task_type-Computer%20Vision-orange)
+  ![](https://img.shields.io/badge/data_type-Biometrics-pinegreen)
   
