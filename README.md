@@ -40,7 +40,7 @@ A list of TrainingData-datasets found in the industry and their descriptions are
 ## List of Datasets
 
 1. [ Biometric Licenses ](#bio_l)
-2. [ Generated Documents ](#gen_l)
+2. [ Generated Data ](#gen_l)
 
 <a name="bio_l"></a>
 
@@ -87,7 +87,7 @@ This block includes collected datasets with a large array of biometric data (pho
 
 <a name="gen_l"></a>
 
-### Generated Documents
+### Generated Data
 **Data generation** in machine learning involves creating or manipulating data to train and evaluate machine learning models. The purpose of data generation is to provide diverse and representative examples that cover a wide range of scenarios, ensuring the model's robustness and generalization. **TrainingData** can generate data on the following projects according to your requirments.
 
 - [GENERATED Vietnamese Passports](<>): Dataset with  replicas of official Vietnamese passports but with randomly generated details.
