@@ -104,7 +104,7 @@ This block includes collected datasets with a large array of biometric data (pho
   ![](https://img.shields.io/badge/task_type-Computer%20Vision-orange)
   ![](https://img.shields.io/badge/data_type-Biometrics-pinegreen)
 
-- [GENERATED E-mail Spam](<>): Dataset with e-mail spam messages generated using Davinci Open AI.
+- [GENERATED E-mail Spam](<https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/tree/main/Datasets_Data/generated-e-mail-spam>): Dataset with e-mail spam messages generated using Davinci Open AI.
   ![](https://img.shields.io/badge/dataset_type-On_demand-darkblue)
   ![](https://img.shields.io/badge/service-Data_Collection-yellow)
   ![](https://img.shields.io/badge/task_type-Data%20Generation-lightgray)
