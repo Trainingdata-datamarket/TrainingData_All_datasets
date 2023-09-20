@@ -40,6 +40,7 @@ A list of TrainingData-datasets found in the industry and their descriptions are
 ## List of Datasets
 
 1. [ Biometric Licenses ](#bio_l)
+2. [ Generated Documents ](#gen_l)
 
 <a name="bio_l"></a>
 
@@ -83,6 +84,8 @@ This block includes collected datasets with a large array of biometric data (pho
   ![](https://img.shields.io/badge/task_type-Reidentification-red)
   ![](https://img.shields.io/badge/task_type-Bounding_Box_Detection-darkgreen)
   ![](https://img.shields.io/badge/data_type-Biometrics-pinegreen)
+
+<a name="gen_l"></a>
 
 ### Generated Documents
 **Data generation** in machine learning involves creating or manipulating data to train and evaluate machine learning models. The purpose of data generation is to provide diverse and representative examples that cover a wide range of scenarios, ensuring the model's robustness and generalization. **TrainingData** can generate data on the following projects according to your requirments.
