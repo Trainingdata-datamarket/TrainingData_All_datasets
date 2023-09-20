@@ -7,42 +7,28 @@
 <a name="about"></a>
 # About the dataset
 
-The **"Portrait and 26 Photos"** dataset is a comprehensive collection of images of individuals, consists of a personal selfie and 26 accompanying photos captured during various activities, in different times and conditions. This rich dataset aims to provide researchers, developers, and individuals with a diverse and detailed set of visual information to facilitate the development and improvement of computer vision, machine learning, and pattern recognition algorithms.
+**Data generation** in machine learning involves creating or manipulating data to train and evaluate machine learning models. The purpose of data generation is to provide diverse and representative examples that cover a wide range of scenarios, ensuring the model's *robustness and generalization*.
 
-The photographs showcase diverse *gender, age, and ethnic groups, allowing for a broad spectrum of representation.*
+The dataset contains **GENERATED Vietnamese passports**, which are replicas of official passports but with randomly generated details, such as *name, date of birth etc*. The primary intention of generating these fake passports is to demonstrate the structure and content of a typical passport document and to train the neural network to identify this type of document.
 
-The selfie and life photos dataset offers numerous potential applications, including but not limited to: *facial recognition software training, reidentification tasks, security verification, emotional analysis, driver identification and other*.
-
-The dataset consists of **272** sets of images (**7,344** images in total) from people from **26** countries. 
+Generated passports can assist in conducting research without accessing or compromising real user data that is often sensitive and subject to privacy regulations. Synthetic data generation allows researchers to *develop and refine models using simulated passport data without risking privacy leaks*.
 
 ### The dataset is solely for informational or educational purposes and should not be used for any fraudulent or deceptive activities.
 
 ### Data in the dataset
-- People from 18 to 59 years old are presented in the dataset.
-- For each person in the dataset age, country and gender is presented.
-- The portrait photos were mostly collected indoor, however there are also selfies made outdoors.
-- The lighting is artificial, natural daily lightning, evening outdoor lighting and dark indoor lighting.
-- People provided portrait selfies where the head takes up at least 1/2 of the frame.
-- All life photos are completely different, however all of them show the person from the portrait photo. Images can have additional people on them, can be made at different times of life and in different locations. A person can laugh, wear maske and be surrounded by friends
+- Images are generated on the basis of official passports.
+- Name, sex, place of birth, date of birth and other personal information is randomly generated.
+- Photos of people are taken from the website https://this-person-does-not-exist.com/en.
+- People from different age groups, genders and ethnicities are presented in the dataset.
+- Passports are captured in different angles, with various contrast and noise settings.
 
-![MacBook Air - 1](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/0414ebdc-342a-49d7-b388-5b31c571b8dc)
-
-### Mandatory conditions for the profile photo:
-
-- The person is depicted alone
-- Shoulder photo
-- There are no sunglasses or medical mask on the face
-- The face is calm, without a smile
-
-![MacBook Pro 14_ - 1](https://github.com/Trainingdata-datamarket/Portrait-and-26-Photos/assets/113421352/957315c7-a25e-4e5e-85f6-4dcc7c4a6e83)
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Ff2778d432611db436f18b9284daec240%2F666.png?generation=1691945421899877&alt=media)
 
 <a name="cont"></a>
 # Content
 ### The folder **"images"**:
 - includes 20 images
 - each image is generated on the basis of Vietnamese Passports
-
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12421376%2Ff2778d432611db436f18b9284daec240%2F666.png?generation=1691945421899877&alt=media)
 
 <a name="getdat"></a>
 # Get the Dataset
