@@ -48,7 +48,7 @@ includes the following information for each media file:
 # Get the Dataset
 This is just an example of the data
 
-Leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=kaggle&utm_medium=cpc&utm_campaign=generated-usa-passeports-dataset)** to discuss your requirements, learn about the price and buy the dataset. 
+Leave a request on **[trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=generated-usa-passeports-dataset)** to discuss your requirements, learn about the price and buy the dataset. 
 
 <a name="link"></a>
 # Links
