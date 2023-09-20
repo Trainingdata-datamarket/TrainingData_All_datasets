@@ -11,7 +11,9 @@
 
 The dataset contains **GENERATED Vietnamese passports**, which are replicas of official passports but with randomly generated details, such as *name, date of birth etc*. The primary intention of generating these fake passports is to demonstrate the structure and content of a typical passport document and to train the neural network to identify this type of document.
 
-Generated passports can assist in conducting research without accessing or compromising real user data that is often sensitive and subject to privacy regulations. Synthetic data generation allows researchers to *develop and refine models using simulated passport data without risking privacy leaks*.
+Generated passports can assist in conducting research without accessing or compromising real user data that is often sensitive and subject to privacy regulations. 
+
+**Synthetic data generation** allows researchers to *develop and refine models using simulated passport data without risking privacy leaks*.
 
 ### The dataset is solely for informational or educational purposes and should not be used for any fraudulent or deceptive activities.
 
