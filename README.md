@@ -90,7 +90,7 @@ This block includes collected datasets with a large array of biometric data (pho
 ### Generated Data
 **Data generation** in machine learning involves creating or manipulating data to train and evaluate machine learning models. The purpose of data generation is to provide diverse and representative examples that cover a wide range of scenarios, ensuring the model's robustness and generalization. **TrainingData** can generate data on the following projects according to your requirments.
 
-- [GENERATED Vietnamese Passports](<>): Dataset with  replicas of official Vietnamese passports but with randomly generated details.
+- [GENERATED Vietnamese Passports](<https://github.com/Trainingdata-datamarket/TrainingData_All_datasets/tree/main/Datasets_Data/generated-vietnamese-passeports>): Dataset with  replicas of official Vietnamese passports but with randomly generated details.
   ![](https://img.shields.io/badge/dataset_type-On_demand-darkblue)
   ![](https://img.shields.io/badge/service-Data_Collection-yellow)
   ![](https://img.shields.io/badge/task_type-Data%20Generation-lightgray)
