@@ -42,7 +42,7 @@ This is just an example of the data. If you need access to the entire dataset, l
 # Links
 | Resource | Link |
 | --- | --- |
-| TrainingData.pro | [trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=26photos) |
+| TrainingData.pro | [trainingdata.pro/data-market](https://trainingdata.pro/data-market?utm_source=github&utm_medium=cpc&utm_campaign=generated-vietnamese-passeports) |
 | Kaggle | https://www.kaggle.com/trainingdatapro |
 | HuggingFace | https://huggingface.co/TrainingDataPro |
 
